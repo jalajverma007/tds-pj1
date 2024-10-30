@@ -1,1 +1,1 @@
-# tds-pj1
+- Data was scraped from the GitHub API by filtering users in Basel with over 10 followers and fetching their most recent repositories.
